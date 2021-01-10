@@ -16,4 +16,7 @@ public class animal {
     public void reportAge(int age){
         System.out.println("我的年龄是:"+age);
     }
+    public void sayWhat(){
+        System.out.println("天天在一起飞");
+    }
 }
