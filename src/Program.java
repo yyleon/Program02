@@ -5,5 +5,7 @@ public class Program {
         System.out.println("Hello joking!!");
         Person person=new Person();
         person.Coming();
+        person.sayHello();
+        person.setName("Kobe");
     }
 }
