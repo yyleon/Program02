@@ -9,4 +9,7 @@ public class Person {
     public void sayHello(){
         System.out.println("Hello");
     }
+    public void Coming(){
+        System.out.println("Dog is comming!!!");
+    }
 }
