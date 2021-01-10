@@ -3,5 +3,6 @@ public class Program {
         System.out.print("Hello world!\n");
         System.out.println("Hello sky!!\n");
         System.out.println("Hello joking!!");
+
     }
 }
